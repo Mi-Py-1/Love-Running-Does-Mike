@@ -8,6 +8,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 /* General styles */
 body {
     min-height: 100vh;
@@ -18,7 +19,7 @@ body {
     font-family: 'lato', sans-serif; 
 }
 
-/*header added with placeholder colour*/
+/* header */
 header {
     background-color: #666666;
     padding: 0 1rem;
@@ -29,18 +30,26 @@ header {
 
 }
 
-h1 {
-    font-family: 'Oswald', sans-serif;
+header a {
+    text-decoration: none;
+    color: inherit;
 }
 
-/*main added with placeholder colour*/
+h1 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
+/* main */
 main {
     background-color: lightblue;
     /* make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
 
-/*footer added with placeholder colour*/
+/* footer */
 footer {
     background-color: orange;
 }
