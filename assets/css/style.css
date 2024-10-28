@@ -1,9 +1,13 @@
+/*imported google font for webpage */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
 /*Asterisk wildcard selector to override default styles added by the browser*/
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-
+}
 /* General styles */
 body {
     min-height: 100vh;
