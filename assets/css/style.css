@@ -252,7 +252,7 @@ main {
     }
 }
 
-/* Media query: desktopss and larger (992px and up) */
+/* Media query: desktops and larger (1200px and up) */
 #benefits {
     display: flex;
     flex-direction: row;
