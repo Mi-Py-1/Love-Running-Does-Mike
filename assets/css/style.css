@@ -123,7 +123,7 @@ main {
 #reasons {
     width: 90%;
     /* below is same as margin left, right, bottom */
-    margin: 20 px auto;
+    margin: 20px auto;
 }
 
 #reasons h2 {
@@ -240,7 +240,7 @@ main {
 /* Form */
 
 #signup {
-    background-image: url("../images/signup-image.webp")
+    background-image: url("../images/signup-image.webp");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -298,7 +298,7 @@ main {
         position: relative;
         box-shadow: none;
         width: fit-content;
-        padding-right: 1 rem;
+        padding-right: 1rem;
     }
 
     #menu {
@@ -343,7 +343,7 @@ main {
     /* Main content */
     main {
         /* Push main content down to accommodate larger header */
-    margin-top: 79 px;
+    margin-top: 79px;
     }
 
     /* Hero */
